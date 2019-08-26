@@ -1,0 +1,15 @@
+__pycache__/
+.idea/
+attendence/modeldata/
+attendence/modeldata/attendence_csv
+modeldata/trainningImageLabel/
+modeldata/image/
+modeldata/tf_train/1
+modeldata/tf_train/2
+modeldata/tf_train/3
+modeldata/tf_train/4
+modeldata/tf_train/5
+modeldata/tf_train/6
+modeldata/tf_train/7
+modeldata/tf_train/8
+attendence.db
