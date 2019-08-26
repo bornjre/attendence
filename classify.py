@@ -110,3 +110,4 @@ class Classifier:
           lastkey = key
         label, result =  self.run(image)
         outchannel.append((label, result))
+# TODO add a seperate class as unregistered_people with random people as input images 
