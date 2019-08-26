@@ -1,3 +1,3 @@
 # attendence sytem (WIP)
 
-using ResNet form tensorflow hub for class project
+using ResNet from tensorflow hub for class project
