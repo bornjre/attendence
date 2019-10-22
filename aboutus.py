@@ -17,7 +17,7 @@ class Aboutus:
         self.window.geometry('580x320')
         self.window.configure(background='snow')
 
-        lbl = tkinter.Label(self.window, text="About Us",  background="snow", font=('times', 25, ' bold '))
+        lbl = tkinter.Label(self.window, text="About Us description",  background="snow", font=('times', 25, ' bold '))
 
         #lbl.grid(column=0, row=1)
         lbl.place(x=250, y=10)
@@ -28,7 +28,7 @@ class Aboutus:
         #msg.grid(column=0, row=2)
         #msg.pack(side=tkinter.RIGHT)
 
-        Aboutt_us = "fjdhjdf rfjjfhj fjfjfrj rfjfrjf fkjjfkjr rfjfrjkf fjjkjnrkjfl rfjrfrkjfn fjnk \njnkdjj fjdkjnk djnkjf djdk"
+        About_us = "fjdhjdf rfjjfhj fjfjfrj rfjfrjf fkjjfkjr rfjfrjkf fjjkjnrkjfl rfjrfrkjfn fjnk \njnkdjj fjdkjnk djnkjf djdk"
         lbl = tkinter.Label(self.window, text=Aboutt_us, background="lightgreen", font=('times', 15, ' italic '))
 
         # lbl.grid(column=0, row=1)
